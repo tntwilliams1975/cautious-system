@@ -1,0 +1,27 @@
+libcore.io.DiskLruCache
+1
+2
+1
+
+DIRTY 1_1_2_0_en_us_unknown
+CLEAN 1_1_2_0_en_us_unknown 31058
+DIRTY 2_1_2_0_en_us_unknown
+CLEAN 2_1_2_0_en_us_unknown 57032
+DIRTY 3_2_2_0_en_us_unknown
+CLEAN 3_2_2_0_en_us_unknown 18755
+DIRTY 0_2_2_0_en_us_unknown
+CLEAN 0_2_2_0_en_us_unknown 7570
+DIRTY 3_1_2_0_en_us_unknown
+CLEAN 3_1_2_0_en_us_unknown 45918
+DIRTY 0_1_2_0_en_us_unknown
+CLEAN 0_1_2_0_en_us_unknown 33410
+DIRTY 3_3_2_0_en_us_29
+CLEAN 3_3_2_0_en_us_29 21569
+DIRTY 0_3_2_0_en_us_29
+CLEAN 0_3_2_0_en_us_29 21356
+DIRTY 2_3_2_0_en_us_29
+CLEAN 2_3_2_0_en_us_29 14131
+DIRTY 1_3_2_0_en_us_29
+CLEAN 1_3_2_0_en_us_29 27298
+DIRTY 2_0_2_0_en_us_29
+CLEAN 2_0_2_0_en_us_29 19777
